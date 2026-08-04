@@ -1,0 +1,10 @@
+{
+  "name": "claude-search-compress",
+  "displayName": "Claude Search Compress",
+  "version": "0.1.0",
+  "description": "Compresses grep/ripgrep output from Bash with headroom's SearchCompressor",
+  "author": { "name": "Denis Fäcke" },
+  "license": "MIT",
+  "keywords": ["context", "compression", "grep", "headroom"],
+  "hooks": "./hooks/hooks.json"
+}

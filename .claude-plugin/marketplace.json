@@ -1,0 +1,14 @@
+{
+  "name": "claude-search-compress",
+  "owner": {
+    "name": "Denis Fäcke"
+  },
+  "plugins": [
+    {
+      "name": "claude-search-compress",
+      "source": "./",
+      "description": "Compresses grep/ripgrep output from Bash with headroom's SearchCompressor.",
+      "version": "0.1.0"
+    }
+  ]
+}
