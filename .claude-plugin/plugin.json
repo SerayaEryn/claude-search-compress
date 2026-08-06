@@ -1,5 +1,5 @@
 {
-  "name": "claude-search-compress",
+  "name": "search-compress",
   "displayName": "Search Compress",
   "version": "0.1.0",
   "description": "Compresses grep/ripgrep output from Bash with headroom's SearchCompressor",
