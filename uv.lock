@@ -591,7 +591,7 @@ wheels = [
 
 [[package]]
 name = "headroom-ai"
-version = "0.36.5"
+version = "0.37.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "ast-grep-cli" },
@@ -605,13 +605,13 @@ dependencies = [
     { name = "tomli", marker = "python_full_version < '3.11'" },
     { name = "tomlkit" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/d2/b8/15570534a35ed4f5b6322d977faead320188590f9c597b5297d432007f54/headroom_ai-0.36.5.tar.gz", hash = "sha256:f14460188e1c016ac2e78059af91821aa7938d0f480e2ceec7f8cb02035e0d37", size = 2814157, upload-time = "2026-08-23T04:41:13.564Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/b6/17/10c3eb35dddb30055d84116444b7158d435758c4cfc161d7c206fb871782/headroom_ai-0.37.0.tar.gz", hash = "sha256:7ffdecba91ce44dd02f1601499f6c935c47374b7cb6ec61e569b816a4bb78a26", size = 2842752, upload-time = "2026-08-27T21:51:09.995Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3a/79/8db10dd06c45c942c2f293b3748d70c8ac53ba048b7796b947f78fcdf952/headroom_ai-0.36.5-cp310-abi3-macosx_10_12_x86_64.whl", hash = "sha256:c62f18e261909a3de43c32113ec76c9ad6580e8fac6dc83347a71403d66094bf", size = 13768883, upload-time = "2026-08-23T04:41:01.962Z" },
-    { url = "https://files.pythonhosted.org/packages/1b/99/410b64a578f36d249b76915d733873192537e986b2bc911373e6d72839e9/headroom_ai-0.36.5-cp310-abi3-macosx_11_0_arm64.whl", hash = "sha256:0190c55f022760d49f6268f3c0970438f9bdd5a72bc0288e2788ff7e8b8ce730", size = 13750476, upload-time = "2026-08-23T04:41:04.492Z" },
-    { url = "https://files.pythonhosted.org/packages/68/58/97538fcca4505a130e7f65e5a736e1672f3b339f34dde0b86f07a9220edc/headroom_ai-0.36.5-cp310-abi3-manylinux_2_28_aarch64.whl", hash = "sha256:378ac86ea3d188014be8c98e5af2d5b64b4ac6ad566bcdc95714dcdf02851932", size = 13786164, upload-time = "2026-08-23T04:41:06.697Z" },
-    { url = "https://files.pythonhosted.org/packages/15/c9/650195df8133b0f2ae5156bd9780fd70e17d8cead361016983e72d629697/headroom_ai-0.36.5-cp310-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:56954b76cd10b5312061725e7470575598a4bde3fa7f80f77d82a08a71fceae8", size = 13931683, upload-time = "2026-08-23T04:41:09.15Z" },
-    { url = "https://files.pythonhosted.org/packages/87/55/4f68afd415361200c9339ac98ee30ed2ceae573136d852b17f1b276e1c36/headroom_ai-0.36.5-cp310-abi3-win_amd64.whl", hash = "sha256:f842990c69e39d967982ef9bd1da20c12b9a7f39507e4f76d638b44f93114986", size = 13873068, upload-time = "2026-08-23T04:41:11.596Z" },
+    { url = "https://files.pythonhosted.org/packages/56/cc/385712352911b7a482514902745cba802e03947850689a784b2d40764e06/headroom_ai-0.37.0-cp310-abi3-macosx_10_12_x86_64.whl", hash = "sha256:d89fd5858e701ada53d01849f73039d891fad84d9eb370f952d56581962d9cf8", size = 13799033, upload-time = "2026-08-27T21:50:58.97Z" },
+    { url = "https://files.pythonhosted.org/packages/47/21/8a87b66e83498da89404cdba4ced6397e84331047df9e11a9ea6f3510b29/headroom_ai-0.37.0-cp310-abi3-macosx_11_0_arm64.whl", hash = "sha256:b4392f68a8d02d74c62c1734cf5bf327511dcc72678f01669f44f0612944d59c", size = 13780628, upload-time = "2026-08-27T21:51:01.723Z" },
+    { url = "https://files.pythonhosted.org/packages/c6/2e/8d1c60683c74ae2871270789e0af1acc93727a51189799e74529679d795c/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_aarch64.whl", hash = "sha256:bc30d31a6b9336155d62bbdd99f3c2f6c5a1ed3882a8730ea0cd8ede4c40fa19", size = 13816313, upload-time = "2026-08-27T21:51:03.725Z" },
+    { url = "https://files.pythonhosted.org/packages/72/b8/16878cf4fe6fc390a0d22025b671468619db690ff14c1b103ace4b5e35f9/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:2efc5cdf681a10c5fc7a2a271a471179c409074537045f682b10e4d724976f46", size = 13961835, upload-time = "2026-08-27T21:51:05.842Z" },
+    { url = "https://files.pythonhosted.org/packages/c9/84/6803f3cc069dc8a6843c7ed8b155d1cf0c603a7467f58ffa24c5c399b8c9/headroom_ai-0.37.0-cp310-abi3-win_amd64.whl", hash = "sha256:e961f892786f7577e75f2c26229f11e2609fc007083dae24d336e76fc4c72e58", size = 13903214, upload-time = "2026-08-27T21:51:07.941Z" },
 ]
 
 [[package]]
