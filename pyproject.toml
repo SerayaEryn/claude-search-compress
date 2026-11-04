@@ -5,7 +5,7 @@ requires-python = ">=3.10"
 dependencies = []
 
 [dependency-groups]
-dev = ["pytest>=8", "headroom-ai"]
+dev = ["pytest>=9.2.0", "headroom-ai"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
